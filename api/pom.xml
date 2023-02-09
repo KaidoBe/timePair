@@ -7,7 +7,6 @@
         <artifactId>TimePair</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>be.kaido</groupId>
     <artifactId>api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
